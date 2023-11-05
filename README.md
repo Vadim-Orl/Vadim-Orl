@@ -76,6 +76,7 @@
 <p dir="auto">📫 How to reach me:</p>
 <p dir="auto">
     e-mail: <a href="mailto:vad-orl90@mail.ru">vad-orl90@mail.ru</a>
+    whatsapp: <a href="https://api.whatsapp.com/send/?phone=79046371812">89046371812</a>
 </p>
 </article>
 
