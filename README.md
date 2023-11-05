@@ -39,7 +39,7 @@ My name is Vadim Orlov and I'm beginning frontend developer.
 </thead>
 <tbody>
     <tr>
-<td><a href="https://vadim-orl.github.io/pixel_hunter">Booking</a></td>
+<td><a href="https://vadim-orl.github.io/pixel_hunter">Pixel hunter</a></td>
 <td><a href="https://vadim-orl.github.io/pixel_hunter/public/index.html" rel="nofollow">I want to see</a></td>
 <td>Крайний готовый проект игры с помощью паттерна MVC. Тестирование бизнесс логики с помощью Mocha. Более глубокое изучение JS</td>
 <td>Vanilla JavaScript (ES6), Gulp, Unit Testing, JSON</td>
