@@ -17,7 +17,6 @@
     <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/gulp.svg" width="40" style="max-width: 100%;">
     <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/github-1.svg" width="40" style="max-width: 100%;">
     <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/figma-1.svg" width="40" style="max-width: 100%;">
-    <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/npm-node-package-manager.svg" width="40" style="max-width: 100%;">
     <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/css-5.svg" width="40" style="max-width: 100%;">
 </p>
 <p dir="auto">✏ <strong>Studying now:</strong></p>
