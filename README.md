@@ -44,53 +44,29 @@ My name is Vadim Orlov and I'm beginning frontend developer.
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="https://github.com/titarenkoeleonora/elegram-frontend">Elegram</a></td>
-<td><a href="https://elegram-frontend.vercel.app/" rel="nofollow">I want to see</a></td>
-<td>Just simple messenger.</td>
-<td>React, Redux, TypeScript, styled-components</td>
-</tr>
-<tr>
-<td><a href="https://github.com/titarenkoeleonora/oh-my-dog">Oh my Dog!</a></td>
-<td><a href="https://oh-my-dog.vercel.app/" rel="nofollow">I want to see</a></td>
-<td>A funny single-page application where users can upload a picture of a dog and see a gallery of pictures of dogs of the same breed.</td>
-<td>React, TypeScript, styled-components, Jest</td>
-</tr>
-<tr>
-<td><a href="https://github.com/titarenkoeleonora/html-academy_what-to-watch-4">What To Watch</a></td>
-<td><a href="https://wtw-five.vercel.app/" rel="nofollow">I want to see</a></td>
-<td>Application for watching movies.</td>
-<td>React, Redux, Jest, Enzyme, Webpack</td>
-</tr>
-<tr>
-<td><a href="https://github.com/titarenkoeleonora/html_academy-kekstagram">Kekstagram</a></td>
-<td><a href="https://titarenkoeleonora.github.io/html_academy-kekstagram/" rel="nofollow">I want to see</a></td>
-<td>Service for downloading and viewing images.</td>
+ <tr>
+<td><a href="https://github.com/Vadim-Orl/kekstagram">Kekstagram</a></td>
+<td><a href="https://vadim-orl.github.io/kekstagram/public/index.html" rel="nofollow">I want to see</a></td>
+<td>Разработка сайта с помощью Vanilla JavaScript, где добавлены фильтры к изображению, первая работа с сервером</td>
 <td>Vanilla JavaScript (ES5)</td>
 </tr>
 <tr>
-<td><a href="https://github.com/titarenkoeleonora/test_vc.ru">Savings calculator</a></td>
-<td><a href="https://titarenkoeleonora.github.io/test_vc_deploy/" rel="nofollow">I want to see</a></td>
-<td>Responsive page with savings calculator. (Completed as part of the test task)</td>
-<td>HTML, SCSS, JavaScript (ES6), Webpack</td>
+<td><a href="https://github.com/Vadim-Orl/cat-energy">Сat-energy</a></td>
+<td><a href="https://vadim-orl.github.io/cat-energy/public/index.html" rel="nofollow">I want to see</a></td>
+<td>Повторение знаний при разработке сайта, написанный с помощью препроцессора Sass и собранный с помощью Gulp</td>
+<td>HTML, CSS, SaSS, Gulp, Figma</td>
 </tr>
 <tr>
-<td><a href="https://github.com/titarenkoeleonora/html-academy-big-trip-11">Big Trip</a></td>
-<td><a href="https://big-trip.vercel.app/" rel="nofollow">I want to see</a></td>
-<td>Service for planning big trips.</td>
-<td>Vanilla JavaScript (ES6), Chart.js, Moment.js, Flatpickr.js, Webpack</td>
+<td><a href="https://github.com/Vadim-Orl/pink">Glassy</a></td>
+<td><a href="https://vadim-orl.github.io/pink/public/index.html" rel="nofollow">I want to see</a></td>
+<td>Адаптивный сайт, написанный с помощью препроцессора Sass. Изучение сборщика Gulp </td>
+<td>HTML, CSS, SaSS, Gulp, Figma</td>
 </tr>
 <tr>
-<td><a href="https://github.com/titarenkoeleonora/test-merkury">Promotional page Dixy</a></td>
-<td><a href="https://test-merkury.vercel.app/" rel="nofollow">I want to see</a></td>
-<td>Promotional page of the action in the Dixy chain of stores. (Completed as part of the test task)</td>
-<td>HTML, SCSS, React</td>
-</tr>
-<tr>
-<td><a href="https://github.com/titarenkoeleonora/html_academy-pink">Pink</a></td>
-<td><a href="https://pink-nine.vercel.app/index.html" rel="nofollow">I want to see</a></td>
-<td>Website for a photo application for coloring the gray everyday life.</td>
-<td>HTML, SCSS, Vanilla JavaScript (ES5), Gulp</td>
+<td><a href="https://github.com/Vadim-Orl/gllacy">Glassy</a></td>
+<td><a href="https://github.com/Vadim-Orl/gllacy/index.html" rel="nofollow">I want to see</a></td>
+<td>Один из первых проектов, для понимание основ CSS и HTML</td>
+<td>HTML, CSS</td>
 </tr>
 </tbody>
 </table>
