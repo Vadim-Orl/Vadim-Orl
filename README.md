@@ -21,6 +21,8 @@ My name is Vadim Orlov and I'm beginning frontend developer.
     <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/img/github-1.svg" width="40" style="max-width: 100%;">
     <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/img/figma-1.svg" width="40" style="max-width: 100%;">
     <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/img/npm-node-package-manager.svg" width="40" style="max-width: 100%;">
+    <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/css-5.svg" width="40" style="max-width: 100%;">
+    https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/css-5.svg
 </p>
 <p dir="auto">✏ <strong>Studying now:</strong></p>
 <ul dir="auto">
