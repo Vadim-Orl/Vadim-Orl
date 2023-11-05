@@ -10,18 +10,17 @@ My name is Vadim Orlov and I'm beginning frontend developer.
 <li>Pixel Perfect;</li>
 </ul>
 <p align="center" dir="auto">
-    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/image/html-5.svg" width="40" style="max-width: 100%;">
-    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/image/css-5.svg" width="40" style="max-width: 100%;">
-    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/image/sass-1.svg" width="40" style="max-width: 100%;">
-    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/image/javascript-4.svg" width="40" style="max-width: 100%;">
-    
+    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/imag/html-5.svg" width="40" style="max-width: 100%;">
+    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/img/css-5.svg" width="40" style="max-width: 100%;">
+    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/imge/sass-1.svg" width="40" style="max-width: 100%;">
+    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/img/javascript-4.svg" width="40" style="max-width: 100%;">
 </p>
 <p align="center" dir="auto">
-   <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/image/npm-node-package-manager.svg" width="40" style="max-width: 100%;">
-    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/image/gulp.svg" width="40" style="max-width: 100%;">
-    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/image/github-1.svg" width="40" style="max-width: 100%;">
-    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/image/figma-1.svg" width="40" style="max-width: 100%;">
-    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/image/npm-node-package-manager.svg" width="40" style="max-width: 100%;">
+   <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/img/npm-node-package-manager.svg" width="40" style="max-width: 100%;">
+    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/img/gulp.svg" width="40" style="max-width: 100%;">
+    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/img/github-1.svg" width="40" style="max-width: 100%;">
+    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/img/figma-1.svg" width="40" style="max-width: 100%;">
+    <img src="https://github.com/Vadim-Orl/Vadim-Orl/edit/main/img/npm-node-package-manager.svg" width="40" style="max-width: 100%;">
 </p>
 <p dir="auto">✏ <strong>Studying now:</strong></p>
 <ul dir="auto">
