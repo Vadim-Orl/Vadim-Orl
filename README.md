@@ -10,9 +10,9 @@ My name is Vadim Orlov and I'm beginning frontend developer.
 <li>Pixel Perfect;</li>
 </ul>
 <p align="center" dir="auto">
-    <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/imag/html-5.svg" width="40" style="max-width: 100%;">
+    <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/html-5.svg" width="40" style="max-width: 100%;">
     <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/css-5.svg" width="40" style="max-width: 100%;">
-    <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/imge/sass-1.svg" width="40" style="max-width: 100%;">
+    <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/sass-1.svg" width="40" style="max-width: 100%;">
     <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/javascript-4.svg" width="40" style="max-width: 100%;">
 </p>
 <p align="center" dir="auto">
