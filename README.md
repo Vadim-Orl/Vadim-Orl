@@ -50,7 +50,7 @@
 <td><a href="https://github.com/Vadim-Orl/kekstagram">Kekstagram</a></td>
 <td><a href="https://vadim-orl.github.io/kekstagram/public/index.html" rel="nofollow">I want to see</a></td>
 <td>Разработка сайта с помощью Vanilla JavaScript, где добавлены фильтры к изображению, первая работа с сервером</td>
-<td>Vanilla JavaScript (ES5), JSON, Gulp</td>
+<td>Vanilla JavaScript, JSON, Gulp</td>
 </tr>
 <tr>
 <td><a href="https://github.com/Vadim-Orl/cat-energy">Сat-energy</a></td>
