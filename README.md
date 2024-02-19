@@ -44,8 +44,7 @@
     <tr>
 <td><a href="https://vadim-orl.github.io/pixel_hunter">Pixel hunter</a></td>
 <td><a href="https://vadim-orl.github.io/pixel_hunter/public/index.html" rel="nofollow">I want to see</a></td>
-<td>Проект игры с помощью паттерна MVC. Тестирование бизнесс логики с помощью Mocha. Более глубокое изучение JS</td>
-<td>Эмиграция на TypeScript</td>
+<td>Проект игры с помощью паттерна MVC. Тестирование бизнесс логики с помощью Mocha. Более глубокое изучение JS. <i>Эмиграция на TypeScript</i></td>
 <td>Vanilla JavaScript (ES6), Gulp, Unit Testing, JSON, TypeScript</td>
 </tr>
 <tr>
