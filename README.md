@@ -11,6 +11,7 @@
     <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/css-5.svg" width="40" style="max-width: 100%;">
     <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/sass-1.svg" width="40" style="max-width: 100%;">
     <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/javascript-4.svg" width="40" style="max-width: 100%;">
+    <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/typescript.svg" width="40" style="max-width: 100%;">
 </p>
 <p align="center" dir="auto">
    <img src="https://github.com/Vadim-Orl/Vadim-Orl/blob/main/img/npm-node-package-manager.svg" width="40" style="max-width: 100%;">
@@ -44,7 +45,8 @@
 <td><a href="https://vadim-orl.github.io/pixel_hunter">Pixel hunter</a></td>
 <td><a href="https://vadim-orl.github.io/pixel_hunter/public/index.html" rel="nofollow">I want to see</a></td>
 <td>Проект игры с помощью паттерна MVC. Тестирование бизнесс логики с помощью Mocha. Более глубокое изучение JS</td>
-<td>Vanilla JavaScript (ES6), Gulp, Unit Testing, JSON</td>
+<td>Эмиграция на TypeScript</td>
+<td>Vanilla JavaScript (ES6), Gulp, Unit Testing, JSON, TypeScript</td>
 </tr>
 <tr>
 <td><a href="https://github.com/Vadim-Orl/booking">Booking</a></td>
