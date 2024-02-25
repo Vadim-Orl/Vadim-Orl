@@ -36,20 +36,20 @@
 </thead>
 <tbody>
     <tr>
-<td><a href="https://vadim-orl.github.io/ReactApp">Поиск аккаунта на GitHub</a></td>
+<td><a href="https://github.com/Vadim-Orl/ReactApp">Поиск аккаунта на GitHub</a></td>
 <td><a href="https://vadim-orl.github.io/ReactApp/" rel="nofollow">I want to see</a></td>
 <td>Приложение по поиску аккаунтов на GitHub. Использование React с последующей эмиграцией на TypeScript</td>
 <td>React, TypeScript, Vite, Sass</td>
 </tr>
     <tr>
     <tr>
-<td><a href="https://vadim-orl.github.io/plotly_model">График добычи ресурсов</a></td>
+<td><a href="https://github.com/Vadim-Orl/plotly_model">График добычи ресурсов</a></td>
 <td><a href="https://vadim-orl.github.io/plotly_model/build/index.html" rel="nofollow">I want to see</a></td>
 <td>Приложение с использованием библиотеки Plotly. Реализован с помощью паттерна MVC. Изучение новой библиотки Plotly и повторение TypeScript</td>
 <td>Vanilla JavaScript (ES6), TypeScript, Gulp, Sass, Plotly</td>
 </tr>
     <tr>
-<td><a href="https://vadim-orl.github.io/pixel_hunter">Pixel hunter</a></td>
+<td><a href="https://github.com/Vadim-Orl/pixel_hunter">Pixel hunter</a></td>
 <td><a href="https://vadim-orl.github.io/pixel_hunter/public/index.html" rel="nofollow">I want to see</a></td>
 <td>Проект игры с помощью паттерна MVC. Тестирование бизнесс логики с помощью Mocha. Более глубокое изучение JS. <i>Эмиграция на TypeScript</i></td>
 <td>Vanilla JavaScript (ES6), Gulp, Unit Testing, JSON, TypeScript</td>
