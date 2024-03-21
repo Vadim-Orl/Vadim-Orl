@@ -40,7 +40,7 @@
 <td><a href="https://github.com/Vadim-Orl/Chess_site/tree/main/yandex/source">Верстка по макету + JS</a></td>
 <td><a href="https://vadim-orl.github.io/Chess_site/yandex/public/index.html" rel="nofollow">I want to see</a></td>
 <td>Адаптивная верстка приложения из Figma. Добавление двух слайдеров на страницу с использованием собственной библиотеки. </td>
-<td>Figma, Sass, Pixel Perfect, Vanilla JavaScript (ES6)</td>
+<td>Figma, Sass, Pixel Perfect, Vanilla JavaScript (ES6), Gulp</td>
 </tr>
        <tr>
 <td><a href="https://github.com/Vadim-Orl/ReactApp">Поиск аккаунта на GitHub</a></td>
